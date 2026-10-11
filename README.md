@@ -1,16 +1,51 @@
-## Hi there 👋
+سلام، من حسین پایمرد هستم 👋
 
-<!--
-**paymard-pro/paymard-pro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+دانشجوی مهندسی کامپیوتر | توسعه بک‌اند و دواپس
 
-Here are some ideas to get you started:
+من دانشجوی ترم 7 مهندسی کامپیوتر شریف هستم و به توسعه بک‌اند، برنامه‌های تحت وب و زیرساخت‌های نرم‌افزاری علاقه دارم. از یادگیری از طریق ساخت پروژه‌های عملی لذت می‌برم و در حال توسعه مهارت‌های خودم در برنامه‌نویسی سمت سرور، ارتباطات بلادرنگ و سیستم‌عامل لینوکس هستم.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+در حال حاضر روی پروژه بک اند node.js بازی اندرویدی هستم
+
+توانمندی‌ها
+
+زبان‌های برنامه‌نویسی
+
+- سطح متوسط: JavaScript، TypeScript، Java، C، C++
+- آشنایی: Python
+
+توسعه بک‌اند
+
+- سطح متوسط: Node.js
+- آشنایی: Express.js، REST API، Socket.IO، SQL، SQLite، Regular Expressions (Regex)
+
+توسعه وب
+
+- سطح متوسط: HTML، CSS
+- آشنایی: React، PHP
+
+سیستم‌عامل و ابزارها
+
+- آشنایی: Linux، Git، GitHub، SSH، Android Studio
+
+پروژه‌های من
+
+بازی Emperor
+
+یک بازی تحت وب که امکان رقابت و بازی دو نفره را فراهم می‌کند.
+
+- حوزه فعالیت: توسعه بازی تحت وب و پیاده‌سازی قابلیت بازی دو نفره
+- مخزن پروژه: "مشاهده پروژه Emperor در گیت‌هاب" (https://github.com/paymard-pro/Emperor)
+
+پروژه Online Chat
+
+یک برنامه چت آنلاین با قابلیت ارتباط بلادرنگ.
+
+- فناوری‌ها: Node.js، Express.js، Socket.IO، SQLite
+- حوزه فعالیت: توسعه بک‌اند، ارتباط بلادرنگ و ذخیره‌سازی داده‌ها
+- ابزارهای زیرساختی: پیکربندی Docker و GitHub Actions در مخزن پروژه
+- مخزن پروژه: "مشاهده پروژه Online Chat در گیت‌هاب" (https://github.com/paymard-pro/online-chat)
+
+ارتباط با من
+
+- ایمیل: "paymard.pro@gmail.com" (mailto:paymard.pro@gmail.com)
+- گیت‌هاب: "@paymard-pro" (https://github.com/paymard-pro)
